@@ -1,6 +1,6 @@
 # RemGrowingHome(Work in progress)
 
-〜1.self-introduction. 
+〜1.self-introduction  
 Hello, I'm RemGrowing.  
 RemGrowing is just a high school student interested in programming.  
 I started this activity to improve my coding skills.  
