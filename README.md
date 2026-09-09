@@ -15,6 +15,7 @@ I hope the code I wrote will be useful to someone someday.
 
 〜3.Log  
 [2026/09/09 05:52 UTC]:make repository "RemGrowingHome"  
+[2026/09/09 16:30]:add a project "hash_filetree_maker". Generates a hashed file tree text output.
 
 〜4.Project List  
 *<a href="https://github.com/mamidayo1923-lang/remgrowing-hash_filetree_maker">hash_filetree_maker</a>  
