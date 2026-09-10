@@ -1,4 +1,4 @@
-# RemGrowingHome(Work in progress)
+# RemGrowingHome
 
 〜1.self-introduction  
   
