@@ -20,7 +20,7 @@ The email address for bug reports got banned. It's being restored...
 
 〜3.Log  
 [2026/09/09 05:52 UTC]:make repository "RemGrowingHome"  
-[2026/09/09 16:30 UTC]:add a project "hash_filetree_maker". Generates a hashed file tree text output.
+[2026/09/09 16:30 UTC]:add a project "hash_filetree_maker". Generates a hashed file tree text output.  
 [2026/09/10 03:08 UTC]:add a project "iso_analyzer". This project was made to check what's inside an ISO file.
 
 〜4.Project List  
