@@ -26,3 +26,6 @@ I am coding using AI.
 *<a href="https://github.com/mamidayo1923-lang/remgrowing-hash_filetree_maker">hash_filetree_maker</a>  
 *<a href="https://github.com/mamidayo1923-lang/iso_analyzer/edit/main/README.md">iso_analyzer</a>  
 *
+
+<img width="1456" height="819" alt="IMG_2112" src="https://github.com/user-attachments/assets/87d5dee5-94b6-4a7c-99ea-92a6375ac817" />
+
