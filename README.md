@@ -27,5 +27,17 @@ I am coding using AI.
 *<a href="https://github.com/mamidayo1923-lang/iso_analyzer/edit/main/README.md">iso_analyzer</a>  
 *
 
-<img width="1456" height="819" alt="IMG_2112" src="https://github.com/user-attachments/assets/87d5dee5-94b6-4a7c-99ea-92a6375ac817" />
+<img width="1456" height="819" alt="IMG_2112" src="https://github.com/user-attachments/assets/87d5dee5-94b6-4a7c-99ea-92a6375ac817" />  
 
+〜5.OneComment  
+Making a PC OS is too difficult for me...  
+
+〜6.History（JST）  
+[2026/09/09 14:52]  
+Created the repository "RemGrowingHome".  
+[2026/09/10 01:30]  
+Created the repository "hash_filetree_maker".  
+[2026/09/10 12:08]  
+Created the repository"iso_analyzer".  
+[2026/09/10 16:21-18:12]  
+Fell asleep while making training data for AI fine-tuning. Filled up my PC's 1TB SSD.
