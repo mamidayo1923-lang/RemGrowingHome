@@ -13,6 +13,8 @@ I am not good at English.
 （年齢に縛られることも、環境に枠にはめられることもない。私たちは皆、どこまでも成長の途中にある。）
 
 〜2.Notice  
+[2026/09/10 7:00 UTC]
+The email address for bug reports got banned. It's being restored...  
 
 〜3.Log  
 [2026/09/09 05:52 UTC]:make repository "RemGrowingHome"  
