@@ -12,7 +12,9 @@ I'm not good at English, but I'll do my best to write in English, so please forg
 I am coding using AI. 
 
 "Age does not bind us, nor do surroundings refine us. We are all forever works in progress."   
-（年齢に縛られることも、環境に枠にはめられることもない。私たちは皆、どこまでも成長の途中にある。）
+（年齢に縛られることも、環境に枠にはめられることもない。私たちは皆、どこまでも成長の途中にある。）　　
+
+I take no responsibility whatsoever for anything that happens as a result of what I have created. Use it at your own risk.　　
 
 〜2.Notice  
 [2026/09/10 7:00 UTC]:The email address for bug reports got banned. It's being restored...  
