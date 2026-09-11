@@ -27,7 +27,8 @@ I take no responsibility whatsoever for anything that happens as a result of wha
 〜4.Project List  
 *<a href="https://github.com/mamidayo1923-lang/remgrowing-hash_filetree_maker">hash_filetree_maker</a>  
 *<a href="https://github.com/mamidayo1923-lang/iso_analyzer-RGProject">iso_analyzer</a>  
-*<a href="https://github.com/mamidayo1923-lang/filetree_maker-RGProject/tree/main">filetree_maker</a>
+*<a href="https://github.com/mamidayo1923-lang/filetree_maker-RGProject/tree/main">filetree_maker</a>  
+*<a href="https://github.com/mamidayo1923-lang/Aster_OS-RGProject">Aster_OS</a>　　
 
 <img width="1456" height="819" alt="IMG_2112" src="https://github.com/user-attachments/assets/87d5dee5-94b6-4a7c-99ea-92a6375ac817" />  
 
@@ -45,3 +46,5 @@ Created the repository "iso_analyzer".
 Fell asleep while making training data for AI fine-tuning. Filled up my PC's 1TB SSD.  
 [2026/09/10 21:16]  
 Created the repository "filetree_maker".  
+[2026/09/11 05:20]
+Created the repository "Aster_OS".
